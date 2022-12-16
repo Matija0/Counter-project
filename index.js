@@ -17,3 +17,6 @@ function save() {
     count = 0
 }
 
+function reset(){
+    saveEl.textContent="Sets completed: "
+}

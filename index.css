@@ -4,7 +4,8 @@ body {
     font-family: Roboto, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
-    color: #f1faee
+    color: #f1faee;
+    margin-top: 200px;
 }
 
 h1 {
@@ -43,6 +44,11 @@ button {
 }
 
 #save-el{
-    font-size: 20px;
+    font-size: 30px;
+
 }
 
+#reset-btn{
+    background: #588157;
+    margin-top: 20px;
+}
